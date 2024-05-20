@@ -1,0 +1,16 @@
+
+ADMIN SITE:
+http://localhost/Guidance_Counselling_System-master/admin/index.php
+
+username: admin@admin.com
+password: admin
+
+USER SITE:
+http://localhost/Guidance_Counselling_System-master/
+
+SAMPLE ACCOUNT FOR USER:
+username:kenedyllovit@gmail.com
+password: 12345
+
+DATABASE NAME: counselling
+FOLDER NAME: Guidance_Counselling_System-master
